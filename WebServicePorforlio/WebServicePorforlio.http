@@ -1,0 +1,6 @@
+@WebServicePorforlio_HostAddress = http://localhost:5193
+
+GET {{WebServicePorforlio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

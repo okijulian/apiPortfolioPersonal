@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\models\\portfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|solutionrelative:models\\portfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|d:\\cursos\\blazor\\porfoliodinamico\\portfoliowithblazor\\apiporfolio\\apiportfoliopersonal\\webserviceporforlio\\models\\response\\responsedescripcionpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|solutionrelative:models\\response\\responsedescripcionpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\controllers\\proyectocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|solutionrelative:controllers\\proyectocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\models\\request\\datospersonarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|solutionrelative:models\\request\\datospersonarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\controllers\\datospersonacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|solutionrelative:controllers\\datospersonacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\controllers\\descripcionpersonalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|solutionrelative:controllers\\descripcionpersonalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\models\\response\\responsedatospersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|solutionrelative:models\\response\\responsedatospersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\models\\response\\responseproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|solutionrelative:models\\response\\responseproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\models\\request\\proyectorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CA26E6-4819-4416-9BED-F5A3F7820F00}|WebServicePorforlio.csproj|solutionrelative:models\\request\\proyectorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 329,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseDescripcionPersonal.cs",
+              "DocumentMoniker": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Models\\Response\\ResponseDescripcionPersonal.cs",
+              "RelativeDocumentMoniker": "Models\\Response\\ResponseDescripcionPersonal.cs",
+              "ToolTip": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Models\\Response\\ResponseDescripcionPersonal.cs",
+              "RelativeToolTip": "Models\\Response\\ResponseDescripcionPersonal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:59:46.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseDatosPersona.cs",
+              "DocumentMoniker": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Models\\Response\\ResponseDatosPersona.cs",
+              "RelativeDocumentMoniker": "Models\\Response\\ResponseDatosPersona.cs",
+              "ToolTip": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Models\\Response\\ResponseDatosPersona.cs",
+              "RelativeToolTip": "Models\\Response\\ResponseDatosPersona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:57:58.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DescripcionPersonalController.cs",
+              "DocumentMoniker": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Controllers\\DescripcionPersonalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DescripcionPersonalController.cs",
+              "ToolTip": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Controllers\\DescripcionPersonalController.cs",
+              "RelativeToolTip": "Controllers\\DescripcionPersonalController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwGgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:58:46.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseProyecto.cs",
+              "DocumentMoniker": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Models\\Response\\ResponseProyecto.cs",
+              "RelativeDocumentMoniker": "Models\\Response\\ResponseProyecto.cs",
+              "ToolTip": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Models\\Response\\ResponseProyecto.cs",
+              "RelativeToolTip": "Models\\Response\\ResponseProyecto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:09:05.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatosPersonaRequest.cs",
+              "DocumentMoniker": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Models\\Request\\DatosPersonaRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Request\\DatosPersonaRequest.cs",
+              "ToolTip": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Models\\Request\\DatosPersonaRequest.cs",
+              "RelativeToolTip": "Models\\Request\\DatosPersonaRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T00:18:24.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatosPersonaController.cs",
+              "DocumentMoniker": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Controllers\\DatosPersonaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DatosPersonaController.cs",
+              "ToolTip": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Controllers\\DatosPersonaController.cs",
+              "RelativeToolTip": "Controllers\\DatosPersonaController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAIwGUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T00:17:54.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProyectoController.cs",
+              "DocumentMoniker": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Controllers\\ProyectoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProyectoController.cs",
+              "ToolTip": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Controllers\\ProyectoController.cs",
+              "RelativeToolTip": "Controllers\\ProyectoController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAgwGoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T23:20:59.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:58:05.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T09:51:04.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PortfolioContext.cs",
+              "DocumentMoniker": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Models\\PortfolioContext.cs",
+              "RelativeDocumentMoniker": "Models\\PortfolioContext.cs",
+              "ToolTip": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Models\\PortfolioContext.cs",
+              "RelativeToolTip": "Models\\PortfolioContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwCcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T00:16:52.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProyectoRequest.cs",
+              "DocumentMoniker": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Models\\Request\\ProyectoRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Request\\ProyectoRequest.cs",
+              "ToolTip": "D:\\CURSOS\\blazor\\PorfolioDinamico\\PortfolioWithBlazor\\apiPorfolio\\apiPortfolioPersonal\\WebServicePorforlio\\Models\\Request\\ProyectoRequest.cs",
+              "RelativeToolTip": "Models\\Request\\ProyectoRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:50:51.851Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 71,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
